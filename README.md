@@ -1,8 +1,11 @@
-# dijikstra
-An Implementation of dijisktra
+# A set of Algorithms implementations
+This algoritms were implementatins during learning journey and most of them because of the IA subject I had.
 
-## Graph or Cities
-![Map](https://github.com/vybraan/dijikstra/blob/main/GraphImage.png)
+## Dijikstra
+- It was implemented when trying to solve/find the minimum distance between two cities given in a map of Romenia.
 
-# Description
-Um exercicio dado na aula de Inteligencia Artificial para encontrar o caminho minimo de uma cidade para outra
+## Prim
+Created to learn and fully understand the working of a greedy algorithm [to be implemented]
+
+## A*
+Created to fully understand it [to be implemented]
